@@ -4,4 +4,4 @@ A new .git folder is created that will keep track of all the changes of the repo
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Allows the user to differentiate the files that are going to be commited versus the ones that aren't going to be modified 
+Allows the user to have a working directory to make the needed changes to files before commiting
