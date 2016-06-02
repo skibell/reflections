@@ -17,3 +17,13 @@ When making a parallel version of the files we're working on and don't want to d
 How do the diagrams help you visualize the branch structure?
 
 By following the parent of the most recent commit back to the first one we have a visual clue of their relationship. We can also see the relations with the other branches.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A bigger branch with changes from both branches, the way is represented is correct because it shows the parent commits each one has had in the past.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When merging automatically git gives us some visual clues about the changes that were introduced to the code, clearly separating the master, the previous and the most recent change to it. Meanwhile, merging manually lets us compare the code that was added and subtracted at once with diff and then opening the actual file and making the change.
