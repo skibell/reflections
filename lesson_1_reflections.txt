@@ -49,4 +49,4 @@ I could always return to the most recent version of the commit change when looki
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I'll need some examples on how to start using this great tool.
+To create a order of changes to my working directory.
