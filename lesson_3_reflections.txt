@@ -6,3 +6,11 @@ When trying to colaborate with other people and the need to share files is alway
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because the remote not always comtain the latest version of the files. We need to use pull only when sharing a copy or downloading it in another computer.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clones are local or remote copies of forks, branches are snapshots of clones that contain their own set of changes and thus can be commited to both local clones and remote repositories.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+That way we could have at least the most recent updated copy of the changes to our files in case we want to compare them to the changes we have made on them.
